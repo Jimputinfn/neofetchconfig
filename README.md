@@ -1,2 +1,2 @@
 # neofetchconfig
-My neofetch configs
+My neofetch configs collection
